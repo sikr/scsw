@@ -1,0 +1,16 @@
+{
+  "name": "scsw",
+  "version": "0.0.0",
+  "description": "SCSW - Skeleton of a secure (https) client with websocket",
+  "main": "s.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sikr",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.13.3",
+    "socket.io": "~1.3.7",
+    "request": "~2.67.0"
+  }
+}
