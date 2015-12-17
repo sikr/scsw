@@ -1,5 +1,5 @@
 # scsw
-SCSW - Skeleton of a secure (https) client with websocket
+SCSW - Skeleton of a secure (https) server and client with websockets
 
 ### Installation
 Clone repository
