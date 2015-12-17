@@ -1,6 +1,6 @@
 {
   "name": "scsw",
-  "description": "SCSW - Skeleton of a secure (https) client with websocket",
+  "description": "SCSW - Skeleton of a secure (https) server and client with websockets",
   "main": "s.js",
   "authors": [
     "sikr"
